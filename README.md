@@ -54,6 +54,8 @@
 - Random Forest Regressor  
 - Gradient Boosting Regressor
 
+### All these models were tryed out in the Jupyter Notebook
+
 ## 📈 Evaluation & Model Selection
 ### Evaluation Metrics
 - **Classification**: Accuracy, Confusion Matrix  
@@ -73,6 +75,8 @@ A lightweight web UI allows users to paste a new programming problem and instant
 - Click **Predict** to view:
   - Predicted difficulty class (Easy/Medium/Hard)
   - Predicted difficulty score (0–10 scale)
+<img width="1918" height="1056" alt="image" src="https://github.com/user-attachments/assets/91cdb432-9806-48d9-9dd9-f392c3f89bf1" />
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/5153ca53-d6b5-4b85-8fbb-814da6ccad76" />
 
 ## 🛠️ How to Run Locally
 
