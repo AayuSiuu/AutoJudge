@@ -34,7 +34,7 @@ def predict_problem(description,input_desc,output_desc):
     return predicted_class,predicted_score
 
 
-st.title("AutoJudge: Problem Difficulty Predictor")
+st.title("AutoJudge: Programming Problem Difficulty Predictor")
 st.write("Enter the new programming description below:")
 description = st.text_area("Problem Description")
 input_desc = st.text_area("Input Description")
@@ -47,4 +47,5 @@ if st.button("Predict"):
         st.info(f"Predicted Difficulty Score: **{score} / 10**")
 
     else:
+
         st.warning("Please enter all the fields.")
