@@ -85,7 +85,7 @@ cd AutoJudge
 pip install -r requirements.txt
 
 # Run the web app
-streamlit run app.py
+streamlit run app.py # or use : "python -m streamlit run app.py"
 ```
 ## 👩‍💻 Author
 
