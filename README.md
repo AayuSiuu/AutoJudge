@@ -96,6 +96,8 @@ pip install -r requirements.txt
 # Run the web app
 streamlit run app.py # or use : "python -m streamlit run app.py"
 ```
+## 📄Report
+For more details, please refer to: [Detailed Report](AutoJudge_report.pdf)
 ## 👩‍💻 Author
 
 **Aayushi Sinha**  
