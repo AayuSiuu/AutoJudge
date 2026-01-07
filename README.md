@@ -55,6 +55,11 @@
 - Gradient Boosting Regressor
 
 ### All these models were tryed out in the Jupyter Notebook
+### Accuracy comparison in classifiers
+<img width="541" height="204" alt="image" src="https://github.com/user-attachments/assets/7b37a7ab-979e-4e6f-aa40-6ceb063713ad" />
+
+### Regression Model comparison
+<img width="581" height="183" alt="image" src="https://github.com/user-attachments/assets/135ac35f-e889-442d-a643-6e5e50216391" />
 
 ## 📈 Evaluation & Model Selection
 ### Evaluation Metrics
