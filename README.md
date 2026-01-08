@@ -99,8 +99,9 @@ streamlit run app.py # or use : "python -m streamlit run app.py"
 ## 📄Report
 For more details, please refer to: [Detailed Report](AutoJudge_report.pdf)
 ## 🎥Video
+
 For Project Video : [CLICK HERE](https://drive.google.com/file/d/1ykpluRWKjbhWMz1N1JLGD6ReIhcIpie0/view?usp=sharing)
----
+
 ## 👩‍💻 Author
 
 **Aayushi Sinha**  
